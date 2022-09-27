@@ -1,0 +1,12 @@
+table {
+margin: 20px 0 40px;
+}
+thead{
+   background: #836FFF;
+   color: white;
+   font-weight: bold;
+}
+td {
+border: 1px solid #000000;
+padding: 8px 15px;
+}
