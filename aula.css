@@ -1,27 +1,34 @@
+table {
+margin: 20px 0 40px;
+}
+thead{
+   background: #836FFF;
+   color: white;
+   font-weight: bold;
+}
+td {
+border: 1px solid #000000;
+padding: 8px 15px;
+}
 main{
-	width: 940px;
-	margin:10auto;
+width: 940px;
+margin: 0 auto;
 }
 
-form{
-	margin: 20px 0;
+form {
+margin: 40px 0;
 }
 
-form label, form p {
-	display: block;
-	font-size:20px;
-	margin:0 0 10px;
-	color: #8B00FF
-} 
-h1{
-	color: #540695 
-}
-.pagina2{
-	display:inline-block;
-	margin: 50px 0px;
-    padding:10px 20px;
-}
+form label {
+display: block;
+font-size: 20px;
+margin: 0 0 10px;
 
-.pagina1{
-	display:inline-block;
-	margin:50px 0px;
+}
+form input {
+display: block;
+margin: 0 0 2px;
+padding: 10px 15px;
+width: 50%;
+
+}
