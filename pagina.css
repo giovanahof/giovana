@@ -1,0 +1,34 @@
+body p{
+	font-size: 20px;
+}
+#cabeçalho{
+	height: 150px;
+	background: pink;
+	width: 100%;
+	margin: 0 auto;
+}
+#menu{
+	height:500px;
+	width:300px;
+	background: Violet;
+	float: left;
+	
+}
+#principal{
+	height:500px;
+	width:730px;
+	background: Orchid;
+	float: left;
+}
+#lado{
+	height: 500px;
+	width: 300px;
+	background: PaleVioletRed;
+	float: left;
+}
+#rodapé{
+	height:100px;
+	background:Plum;
+	clear: both;
+	width: 100%;
+}
